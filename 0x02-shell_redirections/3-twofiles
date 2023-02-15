@@ -1,2 +1,2 @@
 #!/bin/bash
-c at/etc/passwd /etc/host
+c at/etc/passwd /etc/hosts
